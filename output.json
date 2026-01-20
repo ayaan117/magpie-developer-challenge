@@ -29,8 +29,8 @@
         "colour": "sky blue",
         "availabilityText": "In Stock Online",
         "isAvailable": true,
-        "shippingText": "Delivery by 2025-10-13",
-        "shippingDate": "2025-10-13"
+        "shippingText": "Delivery by Wednesday 21st Jan 2026",
+        "shippingDate": null
     },
     {
         "title": "Samsung Galaxy S20 128GB",
@@ -40,8 +40,8 @@
         "colour": "grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Available on 2025-10-19",
-        "shippingDate": "2025-10-19"
+        "shippingText": "Available on 27 Jan 2026",
+        "shippingDate": "2026-01-27"
     },
     {
         "title": "Huawei P30 Pro 128GB",
@@ -62,8 +62,8 @@
         "colour": "orange",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 11 Nov 2025",
-        "shippingDate": "2025-11-11"
+        "shippingText": "Delivery from 2026-02-19",
+        "shippingDate": "2026-02-19"
     },
     {
         "title": "Google Pixel 5 256 GB",
@@ -150,7 +150,7 @@
         "colour": "grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery 13 Oct 2025",
-        "shippingDate": "2025-10-13"
+        "shippingText": "Free Delivery 21 Jan 2026",
+        "shippingDate": "2026-01-21"
     }
 ]
